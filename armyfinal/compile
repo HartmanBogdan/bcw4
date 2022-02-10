@@ -1,0 +1,12 @@
+g++ -c Unit.cpp
+g++ -c Soldier.cpp
+g++ -c Rogue.cpp
+g++ -c Berserker.cpp
+g++ -c Wizard.cpp
+g++ -c Healer.cpp
+g++ -c Priest.cpp
+g++ -c Warlock.cpp
+g++ -c HumanState.cpp
+g++ -c MageState.cpp
+g++ -c NecromancerState.cpp
+g++ -c Necromancer.cpp
